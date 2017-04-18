@@ -1,0 +1,6 @@
+C:\Users\tdrie\Desktop\Intro_Projects\FibSeq\FibSeq\bin\Debug\FibSeq.exe.config
+C:\Users\tdrie\Desktop\Intro_Projects\FibSeq\FibSeq\bin\Debug\FibSeq.exe
+C:\Users\tdrie\Desktop\Intro_Projects\FibSeq\FibSeq\bin\Debug\FibSeq.pdb
+C:\Users\tdrie\Desktop\Intro_Projects\FibSeq\FibSeq\obj\Debug\FibSeq.csprojResolveAssemblyReference.cache
+C:\Users\tdrie\Desktop\Intro_Projects\FibSeq\FibSeq\obj\Debug\FibSeq.exe
+C:\Users\tdrie\Desktop\Intro_Projects\FibSeq\FibSeq\obj\Debug\FibSeq.pdb
